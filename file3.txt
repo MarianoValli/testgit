@@ -1,2 +1,6 @@
 ccc
+<<<<<<< HEAD
 ddd
+=======
+fff
+>>>>>>> ramo1
